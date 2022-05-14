@@ -18,7 +18,6 @@ string[] SearchSimvol(string[] strArray)
         {
             count++;
         }
-
     }
 
     string[] sortStrArray = new string[count];
@@ -31,7 +30,6 @@ string[] SearchSimvol(string[] strArray)
             index++;
         }
     }
-
     return sortStrArray;
 }
 
